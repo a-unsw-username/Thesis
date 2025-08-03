@@ -1,0 +1,19 @@
+{"n_best": [{"score": -0.3772371951, "text": "er"}, {"score": -1.3233951983, "text": "r"}], "pred_str": "er", "text": "er"}
+{"n_best": [{"score": -1.1906616603, "text": "q"}, {"score": -2.1072687438, "text": "w"}, {"score": -4.0382880351, "text": "u"}, {"score": -3.5300605046, "text": "qu"}], "pred_str": "q", "text": "q"}
+{"n_best": [{"score": -0.418214943, "text": "r"}, {"score": -1.7757203838, "text": "re"}, {"score": -4.0376008859, "text": "are"}, {"score": -4.063078176, "text": "or"}, {"score": -2.6800954451, "text": "ar"}], "pred_str": "r", "text": "r"}
+{"n_best": [{"score": -0.0559415117, "text": "goodbye"}], "pred_str": "goodbye", "text": "goodbye"}
+{"n_best": [{"score": -0.0798824171, "text": "wait"}], "pred_str": "wait", "text": "wait"}
+{"n_best": [{"score": -0.4489014406, "text": "two seven  zero two nine one"}, {"score": -1.8084922154, "text": "two seven zero two nine one"}, {"score": -5.8154684866, "text": "two sevenzero two nine one"}], "pred_str": "two seven  zero two nine one", "text": "two seven zero two nine one "}
+{"n_best": [{"score": -0.089421867, "text": "two four six six two"}], "pred_str": "two four six six two", "text": "two four six six two"}
+{"n_best": [{"score": -0.2399529894, "text": "two five two eight eight two"}], "pred_str": "two five two eight eight two", "text": "two five two eight eight two "}
+{"n_best": [{"score": -0.688139488, "text": "n"}, {"score": -1.0995612638, "text": "m"}, {"score": -3.435380563, "text": "en"}, {"score": -3.8468023389, "text": "em"}, {"score": -5.5061752526, "text": "ne"}], "pred_str": "n", "text": "m"}
+{"n_best": [{"score": -5.9418027727, "text": "cassidy"}, {"score": -11.8577597143, "text": "cassie"}, {"score": -1.1687731969, "text": " cascity"}], "pred_str": "cassidy", "text": " cassidy"}
+{"n_best": [{"score": -0.0622347361, "text": "kitten"}], "pred_str": "kitten", "text": "kitten"}
+{"n_best": [{"score": -4.6765137698, "text": "blue"}, {"score": -3.8289031045, "text": "blew"}, {"score": -4.968792, "text": "flew"}], "pred_str": "blue", "text": " blue"}
+{"n_best": [{"score": -2.32770491, "text": "homegrown"}], "pred_str": "homegrown", "text": " homegrown"}
+{"n_best": [{"score": -3.7935043516, "text": "lowphings"}, {"score": -3.879701251, "text": "lawphings"}, {"score": -4.8776105274, "text": "towphings"}, {"score": -5.9462190213, "text": "lowphins"}, {"score": -6.0324159207, "text": "lawphins"}], "pred_str": "lowphings", "text": "nothings"}
+{"n_best": [{"score": -0.3173745203, "text": "thinly"}], "pred_str": "thinly", "text": "thinly"}
+{"n_best": [{"score": -0.0421509659, "text": "firewood"}], "pred_str": "firewood", "text": " firewood"}
+{"n_best": [{"score": -4.8700995394, "text": "fluent"}], "pred_str": "fluent", "text": "t fluent"}
+{"n_best": [{"score": -0.2141739122, "text": "newslink"}], "pred_str": "newslink", "text": "newslink"}
+{"n_best": [{"score": -1.0833792708, "text": "wilhood"}, {"score": -3.1790717637, "text": "wihood"}, {"score": -3.8646223938, "text": "wiehood"}, {"score": -4.2195340622, "text": "wildhood"}, {"score": -4.6072569882, "text": "wishood"}], "pred_str": "wilhood", "text": "boyhood"}
